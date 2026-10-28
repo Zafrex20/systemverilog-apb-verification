@@ -45,5 +45,4 @@ systemverilog-apb-verification/
 │   └── tb.sv
 ├── docs/
 │   └── screenshots/
-├── README.md
-└── .gitignore
+└── README.md
